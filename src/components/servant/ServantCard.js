@@ -14,7 +14,7 @@ export const ServantCard = ({
             <div className="card mb-3" style={ { maxWidth: 540 } }>
                 <div className="row g-0">
                     <div className="col-md-4">
-                        <img src={`./assets/servants/${ id }.png`} className="card-img" alt={ servant } />
+                        <img src={`/assets/servants/${ id }.png`} className="card-img" alt={ servant } />
                     </div>
                     <div className="col-md-8">
                         <div className="card-body">
@@ -30,7 +30,7 @@ export const ServantCard = ({
                                 <small className="text-muted">{ source }</small>
                             </p> 
 
-                            <Link to={`./servant/${ id }`}>
+                            <Link to={`/servant/${ id }`}>
                                 Mas...
                             </Link>
                         </div>
