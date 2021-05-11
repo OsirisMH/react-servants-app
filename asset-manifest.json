@@ -1,17 +1,38 @@
 {
   "files": {
-    "main.js": "/react-servants-app/static/js/main.709e4a75.chunk.js",
-    "main.js.map": "/react-servants-app/static/js/main.709e4a75.chunk.js.map",
+    "main.js": "/react-servants-app/static/js/main.e6974085.chunk.js",
+    "main.js.map": "/react-servants-app/static/js/main.e6974085.chunk.js.map",
     "runtime-main.js": "/react-servants-app/static/js/runtime-main.5fddae68.js",
     "runtime-main.js.map": "/react-servants-app/static/js/runtime-main.5fddae68.js.map",
-    "static/js/2.6ce3225d.chunk.js": "/react-servants-app/static/js/2.6ce3225d.chunk.js",
-    "static/js/2.6ce3225d.chunk.js.map": "/react-servants-app/static/js/2.6ce3225d.chunk.js.map",
+    "static/js/2.f1c0e568.chunk.js": "/react-servants-app/static/js/2.f1c0e568.chunk.js",
+    "static/js/2.f1c0e568.chunk.js.map": "/react-servants-app/static/js/2.f1c0e568.chunk.js.map",
     "index.html": "/react-servants-app/index.html",
-    "static/js/2.6ce3225d.chunk.js.LICENSE.txt": "/react-servants-app/static/js/2.6ce3225d.chunk.js.LICENSE.txt"
+    "static/js/2.f1c0e568.chunk.js.LICENSE.txt": "/react-servants-app/static/js/2.f1c0e568.chunk.js.LICENSE.txt",
+    "static/media/caster-anastasia.png": "/react-servants-app/static/media/caster-anastasia.a6e0c57d.png",
+    "static/media/caster-crane.png": "/react-servants-app/static/media/caster-crane.f84c5c72.png",
+    "static/media/caster-leonardo.png": "/react-servants-app/static/media/caster-leonardo.b8bc8948.png",
+    "static/media/caster-medea.png": "/react-servants-app/static/media/caster-medea.15fc2b69.png",
+    "static/media/caster-merlin.png": "/react-servants-app/static/media/caster-merlin.f1b67dce.png",
+    "static/media/caster-nitocris.png": "/react-servants-app/static/media/caster-nitocris.4e1edc63.png",
+    "static/media/caster-paracelsus.png": "/react-servants-app/static/media/caster-paracelsus.5427862d.png",
+    "static/media/caster-shakespeare.png": "/react-servants-app/static/media/caster-shakespeare.9ff01acc.png",
+    "static/media/caster-tamamo.png": "/react-servants-app/static/media/caster-tamamo.8eb202b9.png",
+    "static/media/caster-zhuge.png": "/react-servants-app/static/media/caster-zhuge.04460f09.png",
+    "static/media/saber-arthur.png": "/react-servants-app/static/media/saber-arthur.70ef63e1.png",
+    "static/media/saber-artoria.png": "/react-servants-app/static/media/saber-artoria.fd6dcf0b.png",
+    "static/media/saber-caesar.png": "/react-servants-app/static/media/saber-caesar.214db399.png",
+    "static/media/saber-dioscuri.png": "/react-servants-app/static/media/saber-dioscuri.85dbbe23.png",
+    "static/media/saber-mordred.png": "/react-servants-app/static/media/saber-mordred.cd316c6d.png",
+    "static/media/saber-muramasa.png": "/react-servants-app/static/media/saber-muramasa.366ebcf4.png",
+    "static/media/saber-musashi.png": "/react-servants-app/static/media/saber-musashi.40c80169.png",
+    "static/media/saber-nero.png": "/react-servants-app/static/media/saber-nero.d38a435a.png",
+    "static/media/saber-okita.png": "/react-servants-app/static/media/saber-okita.55e04637.png",
+    "static/media/saber-siegfried.png": "/react-servants-app/static/media/saber-siegfried.43767667.png",
+    "static/media/saber-sigurd.png": "/react-servants-app/static/media/saber-sigurd.943a46ff.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5fddae68.js",
-    "static/js/2.6ce3225d.chunk.js",
-    "static/js/main.709e4a75.chunk.js"
+    "static/js/2.f1c0e568.chunk.js",
+    "static/js/main.e6974085.chunk.js"
   ]
 }
