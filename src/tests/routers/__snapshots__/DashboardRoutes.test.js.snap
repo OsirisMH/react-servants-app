@@ -1,0 +1,739 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <DashboardRoutes /> Debe mostrarse correctamente 1`] = `
+Array [
+  <nav
+    className="navbar navbar-expand-sm navbar-dark bg-dark"
+  >
+    <div
+      className="container-fluid d-flex"
+    >
+      <a
+        className="navbar-brand bd-highlight"
+        href="/"
+        onClick={[Function]}
+      >
+        Clases
+      </a>
+      <div
+        className="navbar-nav bd-highlight"
+      >
+        <a
+          aria-current="page"
+          className="nav-item nav-link active"
+          href="/saber"
+          onClick={[Function]}
+          style={Object {}}
+        >
+          Saber
+        </a>
+        <a
+          aria-current={null}
+          className="nav-item nav-link"
+          href="/caster"
+          onClick={[Function]}
+        >
+          Caster
+        </a>
+        <a
+          aria-current={null}
+          className="nav-item nav-link"
+          href="/search"
+          onClick={[Function]}
+        >
+          Search
+        </a>
+      </div>
+      <div
+        className="navbar-nav ms-auto bd-highlight"
+      >
+        <span
+          className="nav-item nav-link text-info"
+        >
+          Kemonito
+        </span>
+        <button
+          className="nav-item nav-link btn"
+          onClick={[Function]}
+        >
+          Logout
+        </button>
+      </div>
+    </div>
+  </nav>,
+  <div
+    className="container mt-2"
+  >
+    <div>
+      <h1>
+        SaberScreen
+      </h1>
+      <hr />
+      <div
+        className="row row-cols-1 row-cols-md-1 row-cols-lg-2 g-2 animate__animated animate__fadeIn animate__faster"
+      >
+        <div
+          className="col"
+        >
+          <div
+            className="card mb-3"
+            style={
+              Object {
+                "maxWidth": 540,
+              }
+            }
+          >
+            <div
+              className="row g-0"
+            >
+              <div
+                className="col-md-4"
+              >
+                <img
+                  alt="Artoria Pendragon"
+                  className="card-img"
+                  src="./assets/servants/saber-artoria.png"
+                />
+              </div>
+              <div
+                className="col-md-8"
+              >
+                <div
+                  className="card-body"
+                >
+                  <h5
+                    className="card-title"
+                  >
+                    Artoria Pendragon
+                  </h5>
+                  <p
+                    className="card-text"
+                  >
+                    Excalibur
+                     
+                  </p>
+                  <p
+                    className="card-text"
+                  >
+                    <small
+                      className="text-muted"
+                    >
+                      Arthurian Legends
+                    </small>
+                  </p>
+                  <a
+                    href="/servant/saber-artoria"
+                    onClick={[Function]}
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col"
+        >
+          <div
+            className="card mb-3"
+            style={
+              Object {
+                "maxWidth": 540,
+              }
+            }
+          >
+            <div
+              className="row g-0"
+            >
+              <div
+                className="col-md-4"
+              >
+                <img
+                  alt="Okita Sōji"
+                  className="card-img"
+                  src="./assets/servants/saber-okita.png"
+                />
+              </div>
+              <div
+                className="col-md-8"
+              >
+                <div
+                  className="card-body"
+                >
+                  <h5
+                    className="card-title"
+                  >
+                    Okita Sōji
+                  </h5>
+                  <p
+                    className="card-text"
+                  >
+                    Mumyou Sandan-Zuki
+                     
+                  </p>
+                  <p
+                    className="card-text"
+                  >
+                    <small
+                      className="text-muted"
+                    >
+                      Historical Fact
+                    </small>
+                  </p>
+                  <a
+                    href="/servant/saber-okita"
+                    onClick={[Function]}
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col"
+        >
+          <div
+            className="card mb-3"
+            style={
+              Object {
+                "maxWidth": 540,
+              }
+            }
+          >
+            <div
+              className="row g-0"
+            >
+              <div
+                className="col-md-4"
+              >
+                <img
+                  alt="Mordred"
+                  className="card-img"
+                  src="./assets/servants/saber-mordred.png"
+                />
+              </div>
+              <div
+                className="col-md-8"
+              >
+                <div
+                  className="card-body"
+                >
+                  <h5
+                    className="card-title"
+                  >
+                    Mordred
+                  </h5>
+                  <p
+                    className="card-text"
+                  >
+                    Clarent Blood Arthur
+                     
+                  </p>
+                  <p
+                    className="card-text"
+                  >
+                    <small
+                      className="text-muted"
+                    >
+                      Arthurian Legends
+                    </small>
+                  </p>
+                  <a
+                    href="/servant/saber-mordred"
+                    onClick={[Function]}
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col"
+        >
+          <div
+            className="card mb-3"
+            style={
+              Object {
+                "maxWidth": 540,
+              }
+            }
+          >
+            <div
+              className="row g-0"
+            >
+              <div
+                className="col-md-4"
+              >
+                <img
+                  alt="Senji Muramasa"
+                  className="card-img"
+                  src="./assets/servants/saber-muramasa.png"
+                />
+              </div>
+              <div
+                className="col-md-8"
+              >
+                <div
+                  className="card-body"
+                >
+                  <h5
+                    className="card-title"
+                  >
+                    Senji Muramasa
+                  </h5>
+                  <p
+                    className="card-text"
+                  >
+                    Tsumukari Muramasa
+                     
+                  </p>
+                  <p
+                    className="card-text"
+                  >
+                    <small
+                      className="text-muted"
+                    >
+                      Historical fact
+                    </small>
+                  </p>
+                  <a
+                    href="/servant/saber-muramasa"
+                    onClick={[Function]}
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col"
+        >
+          <div
+            className="card mb-3"
+            style={
+              Object {
+                "maxWidth": 540,
+              }
+            }
+          >
+            <div
+              className="row g-0"
+            >
+              <div
+                className="col-md-4"
+              >
+                <img
+                  alt="Siegfried"
+                  className="card-img"
+                  src="./assets/servants/saber-siegfried.png"
+                />
+              </div>
+              <div
+                className="col-md-8"
+              >
+                <div
+                  className="card-body"
+                >
+                  <h5
+                    className="card-title"
+                  >
+                    Siegfried
+                  </h5>
+                  <p
+                    className="card-text"
+                  >
+                    Balmung
+                     
+                  </p>
+                  <p
+                    className="card-text"
+                  >
+                    <small
+                      className="text-muted"
+                    >
+                      Nibelungenlied (The Song of the Nibelungs)
+                    </small>
+                  </p>
+                  <a
+                    href="/servant/saber-siegfried"
+                    onClick={[Function]}
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col"
+        >
+          <div
+            className="card mb-3"
+            style={
+              Object {
+                "maxWidth": 540,
+              }
+            }
+          >
+            <div
+              className="row g-0"
+            >
+              <div
+                className="col-md-4"
+              >
+                <img
+                  alt="Gaius Julius Caesar"
+                  className="card-img"
+                  src="./assets/servants/saber-caesar.png"
+                />
+              </div>
+              <div
+                className="col-md-8"
+              >
+                <div
+                  className="card-body"
+                >
+                  <h5
+                    className="card-title"
+                  >
+                    Gaius Julius Caesar
+                  </h5>
+                  <p
+                    className="card-text"
+                  >
+                    Crocea Mors
+                     
+                  </p>
+                  <p
+                    className="card-text"
+                  >
+                    <small
+                      className="text-muted"
+                    >
+                      Historical Fact
+                    </small>
+                  </p>
+                  <a
+                    href="/servant/saber-caesar"
+                    onClick={[Function]}
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col"
+        >
+          <div
+            className="card mb-3"
+            style={
+              Object {
+                "maxWidth": 540,
+              }
+            }
+          >
+            <div
+              className="row g-0"
+            >
+              <div
+                className="col-md-4"
+              >
+                <img
+                  alt="Miyamoto Musashi"
+                  className="card-img"
+                  src="./assets/servants/saber-musashi.png"
+                />
+              </div>
+              <div
+                className="col-md-8"
+              >
+                <div
+                  className="card-body"
+                >
+                  <h5
+                    className="card-title"
+                  >
+                    Miyamoto Musashi
+                  </h5>
+                  <p
+                    className="card-text"
+                  >
+                    Rikudou Gorin - Kurikara Tenshou
+                     
+                  </p>
+                  <p
+                    className="card-text"
+                  >
+                    <small
+                      className="text-muted"
+                    >
+                      Historical Fact
+                    </small>
+                  </p>
+                  <a
+                    href="/servant/saber-musashi"
+                    onClick={[Function]}
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col"
+        >
+          <div
+            className="card mb-3"
+            style={
+              Object {
+                "maxWidth": 540,
+              }
+            }
+          >
+            <div
+              className="row g-0"
+            >
+              <div
+                className="col-md-4"
+              >
+                <img
+                  alt="Sigurd"
+                  className="card-img"
+                  src="./assets/servants/saber-sigurd.png"
+                />
+              </div>
+              <div
+                className="col-md-8"
+              >
+                <div
+                  className="card-body"
+                >
+                  <h5
+                    className="card-title"
+                  >
+                    Sigurd
+                  </h5>
+                  <p
+                    className="card-text"
+                  >
+                    Bölverkr Gram
+                     
+                  </p>
+                  <p
+                    className="card-text"
+                  >
+                    <small
+                      className="text-muted"
+                    >
+                      Norse Mythology
+                    </small>
+                  </p>
+                  <a
+                    href="/servant/saber-sigurd"
+                    onClick={[Function]}
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col"
+        >
+          <div
+            className="card mb-3"
+            style={
+              Object {
+                "maxWidth": 540,
+              }
+            }
+          >
+            <div
+              className="row g-0"
+            >
+              <div
+                className="col-md-4"
+              >
+                <img
+                  alt="Dioscuri"
+                  className="card-img"
+                  src="./assets/servants/saber-dioscuri.png"
+                />
+              </div>
+              <div
+                className="col-md-8"
+              >
+                <div
+                  className="card-body"
+                >
+                  <h5
+                    className="card-title"
+                  >
+                    Dioscuri
+                  </h5>
+                  <p
+                    className="card-text"
+                  >
+                    Dioscures Tyndaridae
+                     
+                  </p>
+                  <p
+                    className="card-text"
+                  >
+                    <small
+                      className="text-muted"
+                    >
+                      Greek Mythology
+                    </small>
+                  </p>
+                  <a
+                    href="/servant/saber-dioscuri"
+                    onClick={[Function]}
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col"
+        >
+          <div
+            className="card mb-3"
+            style={
+              Object {
+                "maxWidth": 540,
+              }
+            }
+          >
+            <div
+              className="row g-0"
+            >
+              <div
+                className="col-md-4"
+              >
+                <img
+                  alt="Nero Claudius"
+                  className="card-img"
+                  src="./assets/servants/saber-nero.png"
+                />
+              </div>
+              <div
+                className="col-md-8"
+              >
+                <div
+                  className="card-body"
+                >
+                  <h5
+                    className="card-title"
+                  >
+                    Nero Claudius
+                  </h5>
+                  <p
+                    className="card-text"
+                  >
+                    Laus Saint Claudius
+                     
+                  </p>
+                  <p
+                    className="card-text"
+                  >
+                    <small
+                      className="text-muted"
+                    >
+                      Historical fact
+                    </small>
+                  </p>
+                  <a
+                    href="/servant/saber-nero"
+                    onClick={[Function]}
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="col"
+        >
+          <div
+            className="card mb-3"
+            style={
+              Object {
+                "maxWidth": 540,
+              }
+            }
+          >
+            <div
+              className="row g-0"
+            >
+              <div
+                className="col-md-4"
+              >
+                <img
+                  alt="Arthur Pendragon"
+                  className="card-img"
+                  src="./assets/servants/saber-arthur.png"
+                />
+              </div>
+              <div
+                className="col-md-8"
+              >
+                <div
+                  className="card-body"
+                >
+                  <h5
+                    className="card-title"
+                  >
+                    Arthur Pendragon
+                  </h5>
+                  <p
+                    className="card-text"
+                  >
+                    Excalibur
+                     
+                  </p>
+                  <p
+                    className="card-text"
+                  >
+                    <small
+                      className="text-muted"
+                    >
+                      Arthurian Legends
+                    </small>
+                  </p>
+                  <a
+                    href="/servant/saber-arthur"
+                    onClick={[Function]}
+                  >
+                    Mas...
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;

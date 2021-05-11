@@ -1,6 +1,10 @@
 import React, { useMemo } from 'react';
 import { Redirect, useParams } from 'react-router';
+import { servantImages } from '../../helpers/servantImages';
 import { getServantById } from '../../selectors/getServantById';
+
+// import okita from '../../assets/servants/saber-okita.png'; // Recurso estático
+// const servantImages = require.context( '../../assets/servants/', true );
 
 export const ServantScreen = ({ history }) => {
 
@@ -36,7 +40,9 @@ export const ServantScreen = ({ history }) => {
         <div className="row mt-5 animate__animated animate__fadeInLeft animate__faster">
             <div className="col-4">
                 <img
-                    src={`../assets/servants/${ servantId }.png`}
+                    // src={`../assets/servants/${ servantId }.png`} // desde public/assets
+                    // src={ okita } // import
+                    src={ servantImages(`./${ servantId }.png`).default }
                     alt={ name }
                     className="img-thumbnail"
                 />

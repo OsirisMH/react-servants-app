@@ -4,7 +4,7 @@ import { Navbar } from '../components/ui/Navbar';
 
 import { SaberScreen } from '../components/saber/SaberScreen';
 import { CasterScreen } from '../components/caster/CasterScreen';
-import { ServantScreen } from '../components/servant/ServantScreen';
+import { ServantScreen } from '../components/servants/ServantScreen';
 import { SearchScreen } from '../components/search/SearchScreen';
 
 export const DashboardRoutes = () => {

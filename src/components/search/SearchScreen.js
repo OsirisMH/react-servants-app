@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react';
 import queryString from 'query-string';
-import { ServantCard } from '../servant/ServantCard';
+import { ServantCard } from '../servants/ServantCard';
 import { useForm } from '../../hooks/useForm';
 import { useLocation } from 'react-router';
 import { getServantByName } from '../../selectors/getServantByName';

@@ -40,5 +40,10 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://osirismh.github.io/react-servants-app/"
+  "devDependencies": {
+    "@wojtekmaj/enzyme-adapter-react-17": "^0.6.1",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.6",
+    "enzyme-to-json": "^3.6.2"
+  }
 }

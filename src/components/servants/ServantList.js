@@ -8,7 +8,7 @@ export const ServantList = ({ servantClass }) => {
     // const servants = getServantsByClass( servantClass );
 
     return (
-        <div className="row row-cols-1 row-cols-md-1 row-cols-lg-2 g-2 animate__animated animate__fadeIn animate__faster">
+        <div className="row row-cols-1 row-cols-md-1 row-cols-lg-2 g-2">
             {
                 servants.map( servant => (
                     <ServantCard

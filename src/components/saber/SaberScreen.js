@@ -1,5 +1,5 @@
 import React from 'react'
-import { ServantList } from '../servant/ServantList';
+import { ServantList } from '../servants/ServantList';
 
 export const SaberScreen = () => {
     return (
